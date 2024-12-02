@@ -1,0 +1,74 @@
+
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+        header {
+            background-image: url('Images/bugger-on-wooden-table-black-600nw-2049015059.webp');
+            color: #fff;
+            text-align: center;
+            padding: 4rem 1rem;
+            background-repeat:no-repeat;
+            background-size: cover;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 3rem;
+            text-shadow: 2px 2px 5px #000;
+        }
+        header p {
+            margin: 1rem 0;
+            font-size: 1.5rem;
+            text-shadow: 1px 1px 3px #000;
+        }
+        nav ul {
+            display: flex;
+            justify-content: center;
+            list-style: none;
+            background: #ff5722;
+            padding: 0.5rem;
+            margin: 0;
+        }
+        nav ul li {
+            margin: 0 15px;
+        }
+        nav ul li a {
+            color: #fff;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        section {
+            padding: 2rem;
+            text-align: center;
+        }
+        section img {
+            max-width: 300px;
+            height: auto;
+            border-radius: 10px;
+            margin-top: 1rem;
+        }
+        footer {
+            background: #ff5722;
+            color: #fff;
+            text-align: center;
+            padding: 1rem;
+        }
+        footer p {
+            margin: 0;
+        }
+        button {
+            background: #ff5722;
+            color: #fff;
+            border: none;
+            padding: 0.7rem 1.5rem;
+            margin: 1rem 0;
+            font-size: 1rem;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+        button:hover {
+            background: #e64a19;
+        }
+   
